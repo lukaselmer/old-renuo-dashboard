@@ -1,0 +1,15 @@
+{
+  "author": "Lukas Elmer",
+  "name": "dashboard.renuo.ch",
+  "description": "dashboard.renuo.ch",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
