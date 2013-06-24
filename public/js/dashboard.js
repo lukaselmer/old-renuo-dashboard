@@ -24,6 +24,7 @@ $(function () {
         "Wiki": "redmine.renuo.ch/projects/renuo/wiki/HotFeet",
         "Jira": "jira.hotfeet.ch",
         "Ldap": "ldap.hotfeet.ch",
-        "Ldap Doku": "docs.google.com/presentation/d/1_WY3MeUFXCbjbiE4d84MyjddFq6qRfpdJZXBYztWTJE/edit#slide=id.p"
+        "Ldap Doku": "docs.google.com/presentation/d/1_WY3MeUFXCbjbiE4d84MyjddFq6qRfpdJZXBYztWTJE/edit#slide=id.p",
+        "Git": "git.hotfeet.ch"
     });
 });
