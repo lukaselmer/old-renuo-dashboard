@@ -2,7 +2,8 @@ $(function () {
     var fillList = function(id, list){
         $.each(list, function (name, href) {
             var link = $("<a></a>");
-            link.attr("href", "https://" + href);
+            if (href.indexOf("://") == -1) href = "https://" + href;
+            link.attr("href", href);
             link.text(name);
             $("#" + id).append($("<li></li>").append(link));
         });
@@ -21,7 +22,7 @@ $(function () {
     });
     
     fillList("hotfeet", {
-        "Wiki": "redmine.renuo.ch/projects/renuo/wiki/HotFeet",
+        "Wiki": "redmine.renuo.ch/projects/internal/wiki/HotFeet",
         "Jira": "jira.hotfeet.ch",
         "Ldap": "ldap.hotfeet.ch",
         "Ldap Doku": "docs.google.com/presentation/d/1_WY3MeUFXCbjbiE4d84MyjddFq6qRfpdJZXBYztWTJE/edit#slide=id.p",
