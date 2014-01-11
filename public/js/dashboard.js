@@ -13,7 +13,6 @@ $(function () {
         "Renuo":"redmine.renuo.ch",
         "Shariando":"redmine.renuo.ch/projects/shariando/issues",
         "Studentbooks":"redmine-studentbooks.renuo.ch",
-        "JIRA":"renuogmbh.atlassian.net",
     });
 
     fillList("meetings", {
