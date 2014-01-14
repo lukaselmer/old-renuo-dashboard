@@ -11,7 +11,7 @@ $(function () {
 
     fillList("redmine", {
         "Renuo":"redmine.renuo.ch",
-        "Shariando":"redmine.renuo.ch/projects/shariando/issues",
+        "My Tickets":"redmine.renuo.ch/issues?query_id=14",
         "Studentbooks":"redmine-studentbooks.renuo.ch",
     });
 
