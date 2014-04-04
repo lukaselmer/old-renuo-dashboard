@@ -27,6 +27,6 @@ $(function () {
         "Ldap": "ldap.hotfeet.ch",
         "Ldap Doku": "docs.google.com/presentation/d/1_WY3MeUFXCbjbiE4d84MyjddFq6qRfpdJZXBYztWTJE/edit#slide=id.p",
         "Git": "git.hotfeet.ch",
-        "SSH Development": "ssh://devel.hotfeet.ch",
+        "SSH Devel": "ssh://devel.hotfeet.ch",
     });
 });
