@@ -13,6 +13,7 @@ $(function () {
         "Renuo":"redmine.renuo.ch",
         "My Tickets":"redmine.renuo.ch/issues?query_id=14",
         "Studentbooks":"redmine-studentbooks.renuo.ch",
+        "Luke's Tickets":"redmine.renuo.ch/issues?query_id=21",
     });
 
     fillList("meetings", {
