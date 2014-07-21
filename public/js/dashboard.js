@@ -2,7 +2,7 @@ $(function () {
     
     (function(){
         var fillRedmineList = function(id, list){
-            $.each(list, function (str_id_and_text) {
+            $.each(list, function (index, str_id_and_text) {
                 var tmp = str_id_and_text.split(" ");
                 var redmine_id = tmp.shift();
                 var name = tmp.join(" ");
