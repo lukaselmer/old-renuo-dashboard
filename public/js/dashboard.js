@@ -30,4 +30,6 @@ $(function () {
         "Git": "git.hotfeet.ch",
         "SSH Devel": "ssh://devel.hotfeet.ch",
     });
+    
+    $("current_year").text(new Date().getUTCFullYear());
 });
