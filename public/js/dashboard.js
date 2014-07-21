@@ -10,7 +10,7 @@ $(function () {
                 var link = $("<a></a>");
                 link.attr("href", "https://redmine.renuo.ch/issues/" + redmine_id);
                 link.text(name);
-                $("#" + id).append($("<li></li>").append(redmine_id + ": " + link));
+                $("#" + id).append($("<li></li>").append(redmine_id + ": ").append(link));
             });
         };
         
