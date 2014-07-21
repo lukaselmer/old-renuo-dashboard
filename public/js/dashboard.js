@@ -1,4 +1,31 @@
 $(function () {
+    
+    (function(){
+        var fillRedmineList = function(id, list){
+            $.each(list, function (str_id_and_text) {
+                var tmp = str_id_and_text.split(" ");
+                var redmine_id = tmp.shift();
+                var name = tmp.join(" ");
+                
+                var link = $("<a></a>");
+                link.attr("href", "https://redmine.renuo.ch/issues/" + redmine_id);
+                link.text(name);
+                $("#" + id).append($("<li></li>").append(redmine_id + ": " + link));
+            });
+        };
+        
+        fillRedmineList("redmine_issues", [
+            "1339 Wöchentliche Meetings", 
+            "1592 Büro",
+            "789 Admin",
+            "1545 Agricircle",
+            "768 Kundenaquise",
+            "1747 Server",
+            "1832 Code Reviews",
+        ]);
+    })();
+    
+    
     (function(){
         var fillList = function(id, list){
             $.each(list, function (name, href) {
