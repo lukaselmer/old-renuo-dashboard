@@ -31,5 +31,5 @@ $(function () {
         "SSH Devel": "ssh://devel.hotfeet.ch",
     });
     
-    $("current_year").text(new Date().getUTCFullYear());
+    $("#current_year").text(new Date().getUTCFullYear());
 });
