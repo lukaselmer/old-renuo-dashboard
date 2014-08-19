@@ -45,7 +45,7 @@ $(function () {
         });
     
         fillList("meetings", {
-            "Sitzungsprotokoll": "docs.google.com/a/renuo.ch/document/d/1Ktr9rWkbVlIDZsDFRlrYp3_gmiikf5n0Z-OROa7bkgI/edit",
+            "Sitzungsprotokoll": "docs.google.com/a/renuo.ch/document/d/1Y7g28aGsVW_r_yqWDgkUl8LpA4y-9OEzjStGy7TObyU/edit",
             "Redmine Stunden": "redmine.renuo.ch/time_entries/report?utf8=%E2%9C%93&criteria%5B%5D=project&criteria%5B%5D=user&criteria%5B%5D=issue&f%5B%5D=spent_on&op%5Bspent_on%5D=%3E%3Ct-&v%5Bspent_on%5D%5B%5D=7&f%5B%5D=&c%5B%5D=project&c%5B%5D=spent_on&c%5B%5D=user&c%5B%5D=activity&c%5B%5D=issue&c%5B%5D=comments&c%5B%5D=hours&columns=week",
             "Float": "renuo.floatschedule.com"
         });
