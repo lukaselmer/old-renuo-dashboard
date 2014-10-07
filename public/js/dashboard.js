@@ -22,6 +22,7 @@ $(function () {
             "768 Kundenaquise",
             "1747 Server",
             "1832 Code Reviews",
+            "2484 Bewerbungen",
         ]);
     })();
     
