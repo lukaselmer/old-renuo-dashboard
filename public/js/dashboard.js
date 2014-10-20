@@ -23,6 +23,7 @@ $(function () {
             "1747 Server",
             "1832 Code Reviews",
             "2484 Bewerbungen",
+            "2269 Praktikanten"
         ]);
     })();
     
