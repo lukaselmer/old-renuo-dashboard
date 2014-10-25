@@ -44,6 +44,7 @@ $(function () {
             "My Tickets":"redmine.renuo.ch/issues?query_id=14",
             "Studentbooks":"redmine-studentbooks.renuo.ch",
             "Luke's Tickets":"redmine.renuo.ch/issues?query_id=21",
+            "Wiki":"redmine.renuo.ch/projects/internal/wiki"
         });
     
         fillList("meetings", {
