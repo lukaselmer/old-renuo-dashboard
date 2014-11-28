@@ -20,10 +20,11 @@ $(function () {
             "789 Admin",
             "1545 Agricircle",
             "768 Kundenaquise",
-            "1747 Server",
             "1832 Code Reviews",
             "2484 Bewerbungen",
-            "2269 Praktikanten"
+            "2269 Praktikanten",
+            "2838 Server Admin",
+            "2839 SSL"
         ]);
     })();
     
