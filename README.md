@@ -1,4 +1,4 @@
 Dashboard.renuo.ch
 ==================
 
-http://dashboard.renuo.ch
+https://dashboard.renuo.ch
