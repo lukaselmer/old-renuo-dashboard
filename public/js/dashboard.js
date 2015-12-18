@@ -27,7 +27,8 @@ $(function () {
             "2839 SSL",
             "3704 Weekly Planning & Retro",
             "3705 Daily Standup",
-            "3421 Training / Events / Vorträge"
+            "3421 Training / Events / Vorträge",
+            "2949 Krankheit"
         ]);
     })();
     
