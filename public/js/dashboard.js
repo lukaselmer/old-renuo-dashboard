@@ -28,7 +28,8 @@ $(function () {
             "3704 Weekly Planning & Retro",
             "3705 Daily Standup",
             "3421 Training / Events / Vorträge",
-            "2949 Krankheit"
+            "2949 Krankheit",
+            "5000 Investments Team Griffin"
         ]);
     })();
     
