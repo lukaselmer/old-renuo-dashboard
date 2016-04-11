@@ -29,7 +29,8 @@ $(function () {
             "3705 Daily Standup",
             "3421 Training / Events / Vorträge",
             "2949 Krankheit",
-            "5000 Investments Team Griffin"
+            "5000 Investments Team Griffin",
+            "1542 renuo.ch Seitenpflege & Updates"
         ]);
     })();
     
