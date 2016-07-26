@@ -22,14 +22,16 @@ $(function () {
             "768 Kundenaquise",
             "1832 Code Reviews",
             "2484 Bewerbungen",
-            "2269 Praktikanten",
+            "4220 Praktikanten 2015/16",
             "2838 Server Admin",
             "2839 SSL",
             "3704 Weekly Planning & Retro",
             "3705 Daily Standup",
             "3421 Training / Events / Vorträge",
             "2949 Krankheit",
+            "3704 Scrum Team 11",
             "4999 Scrum Team Griffin",
+            "5129 Investments Team 11",
             "5000 Investments Team Griffin",
             "1542 renuo.ch Seitenpflege & Updates"
         ]);
