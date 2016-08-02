@@ -22,7 +22,7 @@ $(function () {
             "768 Kundenaquise",
             "1832 Code Reviews",
             "2484 Bewerbungen",
-            "4220 Praktikanten 2015/16",
+            "5961 Take care of interns 2016/2017",
             "2838 Server Admin",
             "2839 SSL",
             "3704 Weekly Planning & Retro",
