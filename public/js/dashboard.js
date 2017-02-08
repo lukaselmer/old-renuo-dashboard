@@ -70,7 +70,7 @@ $(function () {
         });
 
         fillRedmineList("investment_time", [
-            "7777 Investments Team 11",
+            "5555 Investments Team 11",
             "5000 Investments Team Griffin"
         ]);
     })();
