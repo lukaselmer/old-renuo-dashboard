@@ -23,6 +23,10 @@ $(function () {
             });
         };
 
+        fillList("redmine_issues", {
+            "Automatic mappings":"github.com/renuo/redmine_auto_time_entries/blob/master/lib/special_case_mapper.rb"
+        });
+        
         fillRedmineList("redmine_issues", [
             "1339 Wöchentliche Meetings", 
             "1592 Büro",
