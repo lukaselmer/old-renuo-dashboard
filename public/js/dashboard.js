@@ -71,11 +71,13 @@ $(function () {
 
         fillList("investment_time", {
             "Documentation and specification": "docs.google.com/a/renuo.ch/document/d/17M9T0opwtB9Kz0sOG22--K_ZJrR1KK7IgHSQJOna3KY/edit?usp=sharing",
+            "Investment Tracker": "investment-tracking-master.renuoapp.ch"
         });
 
         fillRedmineList("investment_time", [
             "5555 Investments Team 11",
-            "5000 Investments Team Griffin"
+            "5000 Investments Team Griffin",
+            "7000 Events"
         ]);
     })();
     
